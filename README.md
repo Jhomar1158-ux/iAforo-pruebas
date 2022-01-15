@@ -22,7 +22,7 @@ git clone https://github.com/Jhomar1158-ux/iAforo-pruebas
 
 ## Demo
 
-[![asdasd](https://media.giphy.com/media/o3M6Df8y3s7egj5r2F/giphy-downsized-large.gif "asdasd")](https://media.giphy.com/media/o3M6Df8y3s7egj5r2F/giphy-downsized-large.gif "asdasd")
+[![demo](https://media.giphy.com/media/o3M6Df8y3s7egj5r2F/giphy-downsized-large.gif "demo")](https://media.giphy.com/media/o3M6Df8y3s7egj5r2F/giphy-downsized-large.gif "demo")
 
 
 Watch all of the Demo: https://drive.google.com/file/d/1t-8vlrvV847C7HRNWRKyHYhPpQfDwRpX/view?usp=sharing
