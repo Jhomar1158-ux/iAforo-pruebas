@@ -21,7 +21,7 @@ git clone https://github.com/Jhomar1158-ux/iAforo-pruebas
 ```
 
 ## Demo
-<img src="https://media.giphy.com/media/o3M6Df8y3s7egj5r2F/giphy-downsized-large.gif" />
+<iframe src="https://giphy.com/embed/o3M6Df8y3s7egj5r2F" width="480" height="360" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/o3M6Df8y3s7egj5r2F">via GIPHY</a></p>
 
 Watch all of the Demo: https://drive.google.com/file/d/1t-8vlrvV847C7HRNWRKyHYhPpQfDwRpX/view?usp=sharing
 
