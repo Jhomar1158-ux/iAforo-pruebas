@@ -34,7 +34,7 @@ Watch all of the Demo: https://drive.google.com/file/d/1t-8vlrvV847C7HRNWRKyHYhP
 - [Numpy](https://numpy.org/) 
 
 
-## Others Links
+## Other links
 - https://unipython.com/cambiando-espacios-color/
 - https://pysource.com/2019/06/05/control-webcam-with-servo-motor-and-raspberry-pi-opencv-with-python/
 
