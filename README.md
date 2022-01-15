@@ -33,13 +33,13 @@ Watch all of the Demo: https://drive.google.com/file/d/1t-8vlrvV847C7HRNWRKyHYhP
 - [OpenCV](https://opencv.org/) 
 - [Numpy](https://numpy.org/) 
 
-
-## Other links
-- https://unipython.com/cambiando-espacios-color/
-- https://pysource.com/2019/06/05/control-webcam-with-servo-motor-and-raspberry-pi-opencv-with-python/
-
 ## Team members
 1. Nicolás Silva - **[nsilvam (Github)](https://github.com/nsilvam)**
 2. Marko Julca - **[papercutt (Github)](https://github.com/papercutt)**
 3. Jhomar Astuyauri - **[Jhomar1158-ux (Github)](https://github.com/Jhomar1158-ux)**
 4. Sebastián Nizama - **[SENS-N (Github)](https://github.com/SENS-N)**
+
+## Other links
+- https://unipython.com/cambiando-espacios-color/
+- https://pysource.com/2019/06/05/control-webcam-with-servo-motor-and-raspberry-pi-opencv-with-python/
+
