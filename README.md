@@ -23,7 +23,7 @@ git clone https://github.com/Jhomar1158-ux/iAforo-pruebas
 ## Demo
 
 [![Captura-de-pantalla-2022-01-14-192438.png](https://i.postimg.cc/HnwnzXx4/Captura-de-pantalla-2022-01-14-192438.png)](https://postimg.cc/q67pMt2z)
-[![Captura-de-pantalla-2022-01-14-192535.png](https://i.postimg.cc/1z8zTLXz/Captura-de-pantalla-2022-01-14-192535.png)](https://postimg.cc/TyXG5Nr8)
+[![Captura-de-pantalla-2022-01-14-192535.png](https://i.postimg.cc/RVb58qHc/Captura-de-pantalla-2022-01-14-192535.png)](https://postimg.cc/7f7WJHX6)
 [![Captura-de-pantalla-2022-01-14-192552.png](https://i.postimg.cc/VN2NcD0W/Captura-de-pantalla-2022-01-14-192552.png)](https://postimg.cc/d7mF2RBh)
 
 Watch all of the Demo: https://drive.google.com/file/d/1t-8vlrvV847C7HRNWRKyHYhPpQfDwRpX/view?usp=sharing
